@@ -76,4 +76,3 @@ What about [designing 3D scenes for backgrounds](https://www.youtube.com/watch?v
 ---
 Well...I will have to figure out how to adapt more of the Hypercinema assignments. 
 
-#hypercinema #physcomp #icm #autofic #apps
