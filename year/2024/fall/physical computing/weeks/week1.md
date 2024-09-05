@@ -94,19 +94,27 @@ By design, computers (standard von Neumann computers bought at Best Buy) obscure
   * watts = electrical power
 
 * current tends to follow path of least resistance
-* in any circuit, total voltage around path of ciruit = 0
+* in any circuit, total voltage around path of circuit = 0
 
 
 **Understanding DC Power Supplies**
 
 **V**: Volts
+
 **A**: Amperes
+
 **W**: Watts
+
 **mA**: miliAmperes
+
 **VA**: Volt Amperes
+
 **VAC**: Volts AC
+
 **VDC**: Volts DC
+
 **DC**: Direct Current
+
 **AC**: Alternating Current
 
 * most phone chargers output **5V**, which will power an Arduino
