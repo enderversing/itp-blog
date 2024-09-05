@@ -38,7 +38,7 @@ We have different visions of tangible computing. Maybe we aren't even both think
 
 Is there a reason we are reading pieces from people who worked at Apple? 
 
-Okay. I like this reading a lot better. Timo also uses that dreaded "we", but the points he is making are more amenable.
+Okay. I like this reading a lot better. Timo also uses that dreaded "we", but the points made are more amenable.
 
 I really like discussing the myths around immaterial computing! [Programmed Visions: Software and Memory](https://direct.mit.edu/books/oa-monograph/3341/Programmed-VisionsSoftware-and-Memory) is such a good book that I'm thinking about reading Timo's arguments.
 
