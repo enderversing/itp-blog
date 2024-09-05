@@ -46,7 +46,7 @@ Natural and intuitive design, to add to Timo's disdain, is often natural or intu
 
 I do think that the fascination with invisible, or immaterial interfaces goes back to [Wendy Chun's timeline](https://direct.mit.edu/books/oa-monograph/3341/Programmed-VisionsSoftware-and-Memory) of the quest for programmable machines.
 
-By design, computers (standard von Neumman computers bought at Best Buy) obscure their inner workings. The trend is to do more of this, not less.
+By design, computers (standard von Neumann computers bought at Best Buy) obscure their inner workings. The trend is to do more of this, not less.
 
 ### Lab Notes
 
