@@ -3,14 +3,19 @@
 
 I am bored! I am thinking about the future. I may as well plan my final project.
 
-**What is this document?**
+**Table of Contents**
+- [Final Project](#final-project)
+  - [Preface](#preface)
+  - [Brainstorming](#brainstorming)
+
+
+## Preface
 
 I know that I want to do something in tangible computing, but I don't have links to any resources explaining what I mean by "tangible computing".
 
 I've read a lot of studies about tangible computing enabling accessible interfaces, but I never thought to save any of those links...
 
 ## Brainstorming
-
 `9.5.24`
 
 I know that the tangible computing labs at [MIT](https://tangible.media.mit.edu) and [Stanford](https://shape.stanford.edu/) have produced papers I read before.
@@ -31,8 +36,6 @@ The Microsoft Speech API is a possibility, but I assume it costs money. There's 
 
 I found an [ONNX model](https://k2-fsa.github.io/sherpa/onnx/tts/wasm/index.html) for [text to speech](https://en.wikipedia.org/wiki/Speech_synthesis). [Piper](https://github.com/wide-video/piper-wasm) is another option. 
 
-This actually seems like it would be...quite easy...once I decide on the elements included in the game console's design.
-
-I'm not trying to do anything that has not been done before - this is just a combination of things that already exist.
+This project actually seems like it *could* be...quite easy to execute...
 
 
