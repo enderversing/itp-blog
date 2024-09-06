@@ -30,7 +30,7 @@ I was thinking the interactive fiction console should allow you to read by touch
 
 I see that I could be inspired by existing [refreshable braille displays](https://en.wikipedia.org/wiki/Refreshable_braille_display) instead of starting from scratch. [That wiki](https://en.wikipedia.org/wiki/Refreshable_braille_display) says that speech synthesis is often used in combination with the braille display. 
 
-I wonder if [self-voicing](https://www.renpy.org/doc/html/self_voicing.html) could be added to Twine games? [RenPy](https://www.renpy.org) relies on the operating system for speech synthesis, but Twine operates in the browser and may not have access to that part of the OS. Self-voicing is not available in Chrome OS.
+I wonder if [self-voicing](https://www.renpy.org/doc/html/self_voicing.html) could be added to [Twine](https://twinery.org/2/#/) games? [RenPy](https://www.renpy.org) relies on the operating system for speech synthesis, but [Twine](https://en.wikipedia.org/wiki/Twine_(software)) operates in the browser and may not have access to that part of the OS. Self-voicing is not available in Chrome OS.
 
 The Microsoft Speech API is a possibility, but I assume it costs money. There's also the possibility of using some [TensorFlow](https://js.tensorflow.org/index.html)/[ONNX](https://github.com/microsoft/onnxruntime) model, but it makes me feel sketchy. I think it would *probably* be decently easy in TensorFlow but I don't feel good about it.
 
