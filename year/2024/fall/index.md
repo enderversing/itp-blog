@@ -7,7 +7,7 @@ I changed the title of the game from *Afterlife* to [*Turn Illness Into A Weapon
 
 Classes I'm taking:
 * Auto Fictions
-* Physical Computing
+* [Physical Computing](physical%20computing/index.md)
 * Applications
 * ICM: Media
 * Hypercinema
