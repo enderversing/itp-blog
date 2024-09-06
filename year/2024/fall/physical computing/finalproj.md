@@ -10,7 +10,9 @@ I know that I want to do something in tangible computing, but I don't have links
 I've read a lot of studies about tangible computing enabling accessible interfaces, but I never thought to save any of those links...
 
 ## Brainstorming
+
 `9.5.24`
+
 I know that the tangible computing labs at [MIT](https://tangible.media.mit.edu) and [Stanford](https://shape.stanford.edu/) have produced papers I read before.
 
 
@@ -27,7 +29,7 @@ I wonder if [self-voicing](https://www.renpy.org/doc/html/self_voicing.html) cou
 
 The Microsoft Speech API is a possibility, but I assume it costs money. There's also the possibility of using some [TensorFlow](https://js.tensorflow.org/index.html)/[ONNX](https://github.com/microsoft/onnxruntime) model, but it makes me feel sketchy. I think it would *probably* be decently easy in TensorFlow but I don't feel good about it.
 
-I found an [ONNX model](https://k2-fsa.github.io/sherpa/onnx/tts/wasm/index.html) for [text to speech](https://en.wikipedia.org/wiki/Speech_synthesis). Strangely, no one has compiled [eSpeak](https://en.wikipedia.org/wiki/ESpeak) to WebAssembly yet ([successfully](https://github.com/WebAssembly/binaryen/discussions/5749)).
+I found an [ONNX model](https://k2-fsa.github.io/sherpa/onnx/tts/wasm/index.html) for [text to speech](https://en.wikipedia.org/wiki/Speech_synthesis). [Piper](https://github.com/wide-video/piper-wasm) is another option. 
 
 This actually seems like it would be...quite easy...once I decide on the elements included in the game console's design.
 
