@@ -33,6 +33,6 @@ I found an [ONNX model](https://k2-fsa.github.io/sherpa/onnx/tts/wasm/index.html
 
 This actually seems like it would be...quite easy...once I decide on the elements included in the game console's design.
 
-I'm not trying to do anything that has not been done before - this is just a new combination things that already exist.
+I'm not trying to do anything that has not been done before - this is just a combination of things that already exist.
 
 
