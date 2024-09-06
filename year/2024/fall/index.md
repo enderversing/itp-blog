@@ -1,5 +1,5 @@
 # beginning a new semester
-```date: 11.2.24```
+```date: 9.2.24```
 
 I am eagerly anticipating the upcoming semester. I am going to plan my class projects around the [game](https://enderversing.itch.io/afterlife) I'm working on. 
 
