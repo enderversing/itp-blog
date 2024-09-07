@@ -1,16 +1,19 @@
 # beginning a new semester
 ```date: 9.2.24```
 
+
+## Class documentation
+* [Auto Fictions](auto%20fictions/index.md)
+* [Physical Computing](physical%20computing/index.md)
+* [Applications](applications/index.md)
+* [ICM: Media](icm_media/index.md)
+* [Hypercinema](hypercinema/index.md)
+
+## Preamble
 I am eagerly anticipating the upcoming semester. I am going to plan my class projects around the [game](https://enderversing.itch.io/afterlife) I'm working on. 
 
 I changed the title of the game from *Afterlife* to [*Turn Illness Into A Weapon*](https://en.wikipedia.org/wiki/Socialist_Patients%27_Collective) but I haven't changed the title of the game anywhere online yet. I'm waiting to make a new playable demo until after I've done some work on the game during the school semester.
 
-Classes I'm taking:
-* Auto Fictions
-* [Physical Computing](physical%20computing/index.md)
-* Applications
-* ICM: Media
-* Hypercinema
 
 Classes with publicly available syllabi:
 * [Physical Computing](https://itp.nyu.edu/physcomp/syllabus/)

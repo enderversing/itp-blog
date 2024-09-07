@@ -1,7 +1,7 @@
-# Physical Computing
+# Hypercinema
 ## Fall 2024
 
-**Index**
+**Index****Index**
 * [Week 1](weeks/week1.md)
 * [Week 2](weeks/week2.md)
 * [Week 3](weeks/week3.md)
@@ -16,9 +16,6 @@
 * [Week 12](weeks/week12.md)
 * [Week 13](weeks/week13.md)
 * [Week 14](weeks/week14.md)
-* [Final Project](weeks/finalproj.md)
-
-
 
 
 

@@ -1,4 +1,4 @@
-# Physical Computing
+# Applications
 ## Fall 2024
 
 **Index**
@@ -16,8 +16,6 @@
 * [Week 12](weeks/week12.md)
 * [Week 13](weeks/week13.md)
 * [Week 14](weeks/week14.md)
-* [Final Project](weeks/finalproj.md)
-
 
 
 
