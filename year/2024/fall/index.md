@@ -3,7 +3,7 @@
 
 
 ## Class documentation
-* [Auto Fictions](auto%20fictions/index.md)
+* [Prototyping Electronic Devices](prototyping/index)
 * [Physical Computing](physical%20computing/index.md)
 * [Applications](applications/index.md)
 * [ICM: Media](icm_media/index.md)

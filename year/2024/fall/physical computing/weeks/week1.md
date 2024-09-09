@@ -128,12 +128,207 @@ By design, computers (standard von Neumann computers bought at Best Buy) obscure
 
 **Lab: Components**
 
+* a datasheet is a spec sheet
+  * describes characteristics of a 
+    * sensor
+    * electronic component
+
+* voltage regulator
+  * different circuits have different voltages
+    * Arduino Uno operates at 5V  
+    * regulators take a set *range* of DC input and convert it to constant voltage
+    * 7800 series regulators
+      * left leg connected to input voltage
+      * middle leg connected to ground
+        * ground is the direction of the flow of electricity
+      * right leg is output voltage
+
+* LEDs emit light given  the correct voltage and current
+  * as a diode, LEDs are *polarized*
+    * only operate when oriented correctly in the circuit
+    * **anode** connects voltage
+    * **cathode** connects to ground
+    * can handle limited current and voltage
+
+* what is an LED lens?
+
+* solderless breadboards are good for prototyping
+  * holes on either side of board used as *voltage* and *ground* buses
+    * `what is a bus?`
+      * columns on sides (positive, negative)
+        * specific to this breadboard
+        * `which is voltage?`
+          * positive?
+        * `which is ground?`
+          * negative?
+
+* resistors placed in a series
+  * reduce voltage
+  * limit current
+
+* potentiometer
+  * variable resistors
+  * movable contact called the *wiper* produces variable resistance
+  * trimmer potentiometers are very small
+
+* force sensing resistors
+  * change their resistance in response to force
+
+* flex sensing resistors
+  * change their resistance as they bend
+  * about the length of a finger
+  * can measure the bend of a *finger*
+    * could measure human finger bend
+
+* force sensing potentiometer
+  * value of `_____` changes depending where along its length you progress
+
+* photocell
+  * light-dependent resistors
+  * increasingly being replaced by phototransistors
+    * can be less toxic
+    * `which components are considered toxic? why?`
+      * trying to avoid heavy metals
+        * might be difficult to dispose
+        * avoiding e-waste
+          * things you don't want in drinking water
+          * disposal is a concern
+
+* thermistor
+  * resistance changes as temperature changes
+
+* Switches
+  * momentary
+    * pushbutton
+      * remain closed only when you press them
+  * toggle
+    * stay in one position when you flip them
+    * can be used to turn a device on or off
+      * because they stay in place
+
+* rotary encoder
+  * produces electrical pulses as shaft of encoder is turned
+  * `what is an [encoder](https://www.pjrc.com/teensy/td_libs_Encoder.html)? what is a shaft? what is an encoder shaft?`
+    * encodes position
+      * always used for position
+    * shaft points out
+
+
+* capacitor
+  * ceramic
+    * unpolarized
+    * small capicitance values
+  * electrolytic
+    * store more charge than ceramic capacitors
+      * longer lasting
+    * polarized
+      * positive leg
+      * negative leg
+        * current flows through them more efficiently one way than the other
+        * **+** or **-** on one side
+  * value of magnitude
+    * number
+  * order of magnitude
+    * ex: microfarad
+
+
+* diode
+  * permit voltage to flow in one direction
+    * block it in the other direction
+
+* 1N4001 diodes 
+   *  useful for stopping voltage
+   *  power diode
+      *  capable of carrying more current than other diodes
+  
+*  Zener diode
+   *  after a certain current threshold, they allow current to flow in both directions
+  
+* transistor
+  * electronic switch
+  * Darlington transistor
+    * usually controls *high-current* loads
+  * **MOSFET**
+    * Metal Oxide Semiconductor Field Effect Transistors
+    * good for controlling high current loads
+    * sensitive to static electricity damage
+
+* phototransistors
+  * controlled by light instead of electricity
+  * can look like an LED
+  * what is an *analog input circuit*?
+
+* power jack
+  * connect breadboard to DC power supply
+  * becoming less common because of USB connectors, USB wall plugs
+
+* battery holder
+  * connect batteries to your project
+  * `what is a *battery snap*?`
+    * keeps battery in place
+
+
+* servo motor
+  * motor + encoder
+    * encoder example: potentiometer
+    * position/speed readings
+    * control messages
+      * feedback loop
+    * plastic bits are *horns*
+      * let you attach motor to mechanism you want to control
+
+* DC motor
+  * induction -> rotate central shaft
+  * reverse direction of rotation by reversing leads
+
+* motor driver
+  * H Bridge
+  * enables voltage to be applied across a load in either direction
+  * can control direction of DC motors
+
+* electromechanical relay
+  * electronic switch
+  * slower, prone to wearing out
+
+* screw terminal
+  * electrical connectors
+  * hold wires in place
+    * using clamping screw
+
+* sensor module
+  * application-specific integrated circuit
+  * read a particular property and produce a measurement
+
+
+* accelerometer
+  * sensors that measure changing acceleration
+  * increasingly built into microcontrollers, other devices
+
+* infrared distance ranger
+  * measure distance in about a 1 range meter
+  * uses infrared light
+
+* ultrasonic distance ranger
+  * emit pulsed ultrasonic waves
+
+* speaker
+  * cone (paper, plastic) mounted to coil of wire
+  * coil mounted next to a magnet
+  * current passed through wire induces a magnetic field 
+    * attracts or repulses magnet
+      * this makes the cone vibrate -> produce sound
+      * `is this what happens inside headphones?`
 **Lab: Setting up a breadboard**
 
+* when inserting or removing breadboard components, *unplug power supply first*
+
+finished!
 **Lab: Electronics and using a Multimeter**
 
+I couldn't get the LED to light up...
 **Lab: Switches**
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [fall/index]: ../../index.md "beginning a new semester"
+[finalproj]: finalproj.md "Final Project"
 [//end]: # "Autogenerated link references"
