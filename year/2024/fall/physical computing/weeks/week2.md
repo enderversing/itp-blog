@@ -38,9 +38,12 @@ Three levels of processing:
 
 This webpage is not loading for me.
 
+
 ## [Lab: Digital Input and Output with an Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/digital-input-and-output-with-an-arduino/)
 
+
 ## [Lab: Analog In with an Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
+
 
 ## [Lab: Sensor Change Detection](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/lab-sensor-change-detection/)
 
