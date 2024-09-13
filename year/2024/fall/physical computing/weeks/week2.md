@@ -52,6 +52,7 @@ I have also been tempted to create body-as-cursor projects in the past.
 
 I did it!
 
+(Images are not loading for some reason.)
   
 ![Lab: Digital Input and Output with an Arduino](/assets/img/week2/IMG_2017.gif)
 
