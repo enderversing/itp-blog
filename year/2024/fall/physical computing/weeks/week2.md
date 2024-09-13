@@ -41,11 +41,30 @@ This webpage is not loading for me.
 
 ## [Lab: Digital Input and Output with an Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/digital-input-and-output-with-an-arduino/)
 
+I did it!
+
+<video width="320" height="240" controls>
+  <source src="/assets/img/week2/IMG_2017.MOV" type="video/mp4">
+</video>
+
 
 ## [Lab: Analog In with an Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
 
+I did it!
+
+<video width="320" height="240" controls>
+  <source src="/assets/img/week2/IMG_2027.MOV" type="video/mp4">
+</video>
 
 ## [Lab: Sensor Change Detection](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/lab-sensor-change-detection/)
 
+I did not do it!
 
 
+<video width="320" height="240" controls>
+  <source src="/assets/img/week2/IMG_2028.MOV" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="/assets/img/week2/IMG_2029.MOV" type="video/mp4">
+</video>
