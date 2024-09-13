@@ -46,7 +46,7 @@ I'm not tempted by gloves, floor pads, or video mirrors.
 
 Unfortunately, I am indeed tempted by the mechanical pixels. I think the fields of grass idea is tempting as well.
 
-I have also tempted to create body-as-cursor projects in the past.
+I have also been tempted to create body-as-cursor projects in the past.
 
 ## [Lab: Digital Input and Output with an Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/digital-input-and-output-with-an-arduino/)
 
