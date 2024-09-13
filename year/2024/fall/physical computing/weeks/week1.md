@@ -208,7 +208,7 @@ By design, computers (standard von Neumann computers bought at Best Buy) obscure
 
 * rotary encoder
   * produces electrical pulses as shaft of encoder is turned
-  * `what is an [encoder](https://www.pjrc.com/teensy/td_libs_Encoder.html)? what is a shaft? what is an encoder shaft?`
+  * what is an [encoder](https://www.pjrc.com/teensy/td_libs_Encoder.html)? what is a shaft? what is an encoder shaft?
     * encodes position
       * always used for position
     * shaft points out
@@ -323,6 +323,7 @@ By design, computers (standard von Neumann computers bought at Best Buy) obscure
 * when inserting or removing breadboard components, *unplug power supply first*
 
 This diagram is helpful for figuring out which pins are which:
+
 ![Arduino Nano 33 pins](/assets/img/pin.png)
 
 
