@@ -66,8 +66,23 @@ I did it!
 
 ## [Lab: Sensor Change Detection](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/lab-sensor-change-detection/)
 
-I did not do it!
+### Program the Microcontroller to Read the Pushbutton’s State Change
 
-  ![Sensor Change Detection](/assets/img/week2/IMG_2029.gif)
+I did it!
+
+![Sensor Change Detection](/assets/img/week2/success.gif)
+
+
+### Count Button Presses
+
+I finished.
+
+![Sensor Change Detection](/assets/img/week2/success2.gif)
+
+### Long Press, Short Press
+
+I finished this.
+
+![Sensor Change Detection](/assets/img/week2/success3.gif)
 
 
