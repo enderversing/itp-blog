@@ -61,7 +61,7 @@ I did it!
 I did it!
 
  
-![Lab: Analog In with an Arduino](/assets/img/week2/IMG_2027.gif)
+![Lab: Analog In with an Arduino](/img/week2/IMG_2027.gif)
 
 
 ## [Lab: Sensor Change Detection](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/lab-sensor-change-detection/)
@@ -70,19 +70,19 @@ I did it!
 
 I did it!
 
-![Sensor Change Detection](/assets/img/week2/success.gif)
+![Sensor Change Detection](/img/week2/success.gif)
 
 
 ### Count Button Presses
 
 I finished.
 
-![Sensor Change Detection](/assets/img/week2/success2.gif)
+![Sensor Change Detection](/img/week2/success2.gif)
 
 ### Long Press, Short Press
 
 I finished this.
 
-![Sensor Change Detection](/assets/img/week2/success3.gif)
+![Sensor Change Detection](/img/week2/success3.gif)
 
 
