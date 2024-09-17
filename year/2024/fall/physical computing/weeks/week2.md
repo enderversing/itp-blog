@@ -54,7 +54,7 @@ I did it!
 
 (Images are not loading for some reason.)
   
-![Lab: Digital Input and Output with an Arduino](/assets/img/week2/IMG_2017.gif)
+![Lab: Digital Input and Output with an Arduino](https://enderversing.github.io/itp-blog/assets/img/week2/IMG_2017.gif)
 
 ## [Lab: Analog In with an Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
 
@@ -70,19 +70,19 @@ I did it!
 
 I did it!
 
-![Sensor Change Detection](/img/week2/success.gif)
+![Sensor Change Detection](https://enderversing.github.io/itp-blog/assets/img/week2/success.gif)
 
 
 ### Count Button Presses
 
 I finished.
 
-![Sensor Change Detection](/img/week2/success2.gif)
+![Sensor Change Detection](https://enderversing.github.io/itp-blog/assets/img/week2/success2.gif)
 
 ### Long Press, Short Press
 
 I finished this.
 
-![Sensor Change Detection](/img/week2/success3.gif)
+![Sensor Change Detection](https://enderversing.github.io/itp-blog/assets/img/week2/success3.gif)
 
 
