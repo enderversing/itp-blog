@@ -51,8 +51,6 @@ I have also been tempted to create body-as-cursor projects in the past.
 ## [Lab: Digital Input and Output with an Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/digital-input-and-output-with-an-arduino/)
 
 I did it!
-
-(Images are not loading for some reason.)
   
 ![Lab: Digital Input and Output with an Arduino](https://enderversing.github.io/itp-blog/assets/img/week2/IMG_2017.gif)
 
