@@ -13,7 +13,12 @@ Parts:
 
 I finished part one! I got the speaker working!
 
-![speaker](https://enderversing.github.io/itp-blog/assets/week3/part1.png)
+![speaker](https://enderversing.github.io/itp-blog/assets/img/week3/part1.png)
+
+I finished part two! I played multiple notes!
+
+![notes](https://enderversing.github.io/itp-blog/assets/img/week3/part2.png)
+
 
 ## [Lab: Servo Motor Control with an Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/servo-motor-control-with-an-arduino/)
 
@@ -58,4 +63,4 @@ Okay. Next, I will post pictures.
 
 I finished the lab! I was touching the force sensing resistor in order to turn the servo motor.
 
-![servo motor](https://enderversing.github.io/itp-blog/assets/week3/second_lab.gif)
+![servo motor](https://enderversing.github.io/itp-blog/assets/img/week3/second_lab.gif)
