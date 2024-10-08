@@ -2,6 +2,8 @@
 
 There are no labs this week!
 
+
+
 ## [Making Interactive Art: Set the Stage, Then Shut Up and Listen](https://www.tigoe.com/blog/category/physicalcomputing/405/)
 
 I think personal websites are so great. I used to be very into IndieWeb style personal websites but became overwhelmed by my own perfectionism.
