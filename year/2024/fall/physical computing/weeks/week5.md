@@ -14,7 +14,7 @@ Okay, I bought Rak Wireless boards (and two of everything).
 
 I bought a supercapacitor and then realized it's not going to work out...maybe another project can use the supercapacitors?
 
-![digikey]([https://](https://enderversing.github.io/itp-blog/assets/img/week5/digikey.png))
+![digikey]([https://](https://enderversing.github.io/itp-blog/assets/img/week5/digikey.png)
 
 I tried to purchase every electronic component that seemed relevant to making a LoRa pager. I bought two *real time clocks*, *buzzers*, and keypads.
 
