@@ -26,8 +26,9 @@ I think my teammate's idea - making physical contact cards for sharing LoRa page
 
 ![rak order two](https://enderversing.github.io/itp-blog/assets/img/week5/rak order two.png)
 
-I took these notes about the LoRa pager to share for our group meeting, so were all on the same page (I was wrong about the power supply):
+I took these notes about the LoRa pager to share for our group meeting, so we were all on the same page (I was wrong about the power supply):
 
+Interesting [non-traditional(1)](https://hackaday.io/project/159573-power-generation-modules) [energy(2)](https://hackaday.com/2023/12/31/3d-printing-your-own-triboelectric-generators/) [projects(3)](https://hackaday.io/project/158857-body-heat-powered-flashlight) to investigate.
 ![overview one](https://enderversing.github.io/itp-blog/assets/img/week5/IMG_2141.JPG)
 
 ![overview two](https://enderversing.github.io/itp-blog/assets/img/week5/IMG_2142.JPG)
