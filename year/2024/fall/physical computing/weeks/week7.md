@@ -4,6 +4,12 @@ This is all that I documented regarding the physical device I made (the OLED scr
 
 ![OLED turning on](https://enderversing.github.io/itp-blog/assets/img/week7/IMG_2250.gif)
 
+I also am adding a bird's eye view of the breadboard before I soldered everything together. I wish I had filmed a video of what this looked like when I turned it on.
+
+![breadboard view](https://enderversing.github.io/itp-blog/assets/img/week7/IMG_2255.jpeg)
+
+
+
 I showed this to the class as a digital PDF presentation and a physical pamphlet. I'm having some technical issues so I will upload each image embedded in the PDF one by one.
 
 ![pres image one](https://enderversing.github.io/itp-blog/assets/img/week7/pres/1.png)
