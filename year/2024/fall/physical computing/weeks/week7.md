@@ -7,6 +7,7 @@ This is all that I documented regarding the physical device I made (the OLED scr
 I also am adding a bird's eye view of the breadboard before I soldered everything together. I wish I had filmed a video of what this looked like when I turned it on.
 
 ![breadboard view](https://enderversing.github.io/itp-blog/assets/img/week7/IMG_2255.jpeg)
+![harriet](https://enderversing.github.io/itp-blog/assets/img/week7/IMG_2267.jpeg)
 
 
 
