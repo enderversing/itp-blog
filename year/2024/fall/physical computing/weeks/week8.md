@@ -26,3 +26,9 @@
 ![](https://enderversing.github.io/itp-blog/assets/img/week8/lab_3/2.gif)
 ![](https://enderversing.github.io/itp-blog/assets/img/week8/lab_3/3.gif)
 ![](https://enderversing.github.io/itp-blog/assets/img/week8/lab_3/4.gif)
+
+## [All Technology is Assistive](All Technology is Assistive)
+
+I agree with the sentiment...obviously.
+
+I read the headings but this article is behind a paywall.
