@@ -3,16 +3,16 @@ I'm getting organized.
 
 
 ## Timeline
-![My timeline](/assets/img/week9/timeline.png)
+![My timeline](https://enderversing.github.io/itp-blog/assets/img/week9/timeline.png)
 ## Parts
-![My parts](/assets/img/week9/parts.png)
+![My parts](https://enderversing.github.io/itp-blog/assets/img/week9/parts.png)
 
 ## OLED Display
 
 I got the two radios to come "online" but they haven't found each other yet.
-![OLED IMG](/assets/img/week9/radio_oled.jpg)
+![OLED IMG](https://enderversing.github.io/itp-blog/assets/img/week9/radio_oled.jpg)
 
-![OLED GIF](/assets/img/week9/radio_oled.gif)
+![OLED GIF](https://enderversing.github.io/itp-blog/assets/img/week9/radio_oled.gif)
 
 ## If you're reading this...
 
