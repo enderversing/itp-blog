@@ -14,6 +14,13 @@ I got the two radios to come "online" but they haven't found each other yet.
 
 ![OLED GIF](https://enderversing.github.io/itp-blog/assets/img/week9/radio_oled.gif)
 
+## The radios are talking.
+
+The LoRa radios are talking to each other! I have made so much progress.
+
+![OLED GIF](https://enderversing.github.io/itp-blog/assets/img/week9/talking.gif)
+
+
 ## If you're reading this...
 
 I need a better way to organize my code in the Arduino IDE! It's hideous and difficult to look through.
