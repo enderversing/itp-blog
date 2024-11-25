@@ -160,3 +160,8 @@ and laughs
 
 ![storyboard for Cornell Box](https://enderversing.github.io/itp-blog/assets/img/hypercinema/storyboard.png)
 
+### Godot
+
+So far, all I've been able to do in Godot is...make grass! This took a long time.
+
+![Godot grass](https://enderversing.github.io/itp-blog/assets/img/hypercinema/GRASS.png)
