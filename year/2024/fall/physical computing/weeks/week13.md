@@ -1,8 +1,21 @@
 # Week 13
 
+## Hardware Progress
+
+I expect that I will be racing against Tuesday's deadline to produce visual documentation of the actual hardware I'm making.
+I'm going to Doc Lab nexr week, so hopefully I'll be done in time for that session.
+
+## I made a site for this project
+
+I made a [site for the Harriet Network](https://harrietnetwork.com)! 
+
+[(What is that?)](https://harrietnetwork.com/faq)
+
+## Copilot Chat
+
 I had the following chat with [Copilot](https://copilot.microsoft.com) and I think it may have possibly saved my Physical Computing project. I am documenting this chat transcript for transparency and also for my own records:
 
-___
+---
 
 **Q:** How do I connect an Arduino Nano 33 IoT and LoRa radio to an Android or iOS smartphone?
 
