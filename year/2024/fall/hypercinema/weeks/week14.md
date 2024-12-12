@@ -1,6 +1,6 @@
 ## Week 14
 
-For my Hypercinema and ICM: Media finals, I worked on a Cornell Box.
+For my Hypercinema and ICM: Media finals, I worked on a [Cornell Box](https://blackprint.surge.sh).
 
 
 ![hero gif](https://enderversing.github.io/itp-blog/assets/img/hypercinema/hero.gif)
