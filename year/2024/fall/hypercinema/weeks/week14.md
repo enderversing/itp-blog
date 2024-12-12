@@ -8,7 +8,7 @@ For my Hypercinema and ICM: Media finals, I worked on a [Cornell Box](https://bl
 I had a consistent issue with HDR skyboxes crashing Godot on my personal computer.
 ![hdr glitch](https://enderversing.github.io/itp-blog/assets/img/hypercinema/doc/1.png)
 
-I used an AI tool to generate a 3D model of Nelson Mandela's house, which was nice. When I first imported it, the orientation seemed random.
+I used an [AI tool](https://deepai.org/3d-model-generator) to generate a 3D model of Nelson Mandela's house, which was nice. When I first imported it, the orientation seemed random.
 ![red house 3D model rotated in air](https://enderversing.github.io/itp-blog/assets/img/hypercinema/doc/2.png)
 
 
