@@ -84,3 +84,10 @@ There we go! I want to make a fun little WiFi portal! I hope it works out.
 
 ![WiFi chip](https://enderversing.github.io/itp-blog/assets/img/week14/portal.png)
 
+---
+
+This is how far I got this semester:
+
+![Feather M0 radios with USB cables, one inside clear enclosure](https://enderversing.github.io/itp-blog/assets/img/week14/IMG_2598.png)
+
+[This was my final presentation](https://www.figma.com/deck/M2BlujWAbUKw6McuUNASkQ/Harriet-Network-(12%2F11%2F24)) for Prototyping Electronic Devices.
