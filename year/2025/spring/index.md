@@ -1,7 +1,11 @@
 # It's spring!
 ```date: 1.23.24```
 
+## Class documentation
+* [Energy](energy/index)
 
+
+## Preamble
 I feel way less excited for school this semester than [last semester](../2024/fall/index.md).
 
 At the same time, school seems materially better...so far. I feel like I have adjusted my expectations to be as low as possible, which means I am sometimes pleasantly surprised by moments of joy.
