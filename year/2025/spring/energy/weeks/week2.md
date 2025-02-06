@@ -36,18 +36,23 @@ I feel torn about whether to aim high or just make the simplest possible contrap
 
 ## Part 4: Components to Find/Make
 
-I'm thinking that this might be a huge motor. I like the idea of making this some toy or installation that generates energy, in the future, because I don't want it to be a chore.
+I'm thinking that this might be a huge motor. 
 
-Right now, I need to get the basics to work!
+I think I'm looking to make a hand crank with an output current of 2500
+    mAh and output voltage of ~3.7 V.
+
+Right now, I need the basics to work.
+
+
+## Extra: Dreamzoning / Ideation
+
+I like the idea of making this some toy or installation that generates energy, in the future, because I don't want it to be a chore.
 
 
 I looked up "energy harvesting toy playground" and found [this link](https://our-power.co.uk/energy-generating-playgrounds-turning-fun-into-power/) about merry go-rounds that can generate power.
 
 This hypothetical playground could also have [jumpropes and spinning seats](https://playgroundprofessionals.com/playground/playground-produces-energy). I was already thinking of making a little "game" where you can generate motion by spinning yourself around in a chair.
 
----
+This could actually go together with my solar project, which I want to be a [repeater](https://www.austinmesh.org/devices/#solar) for the [Harriet Network](https://harrietnetwork.com).
 
-I think I'm looking to make a hand crank with an output current of 2500
-    mAh and output voltage of ~3.7 V.
-
-Right now, I need the basics to work.
+Maybe I could create temporary/portable (or permanent/stationary) playgrounds in public spaces that harvest energy from the sun and from human movement? I don't know. I lack confidence in my ability to follow through...
