@@ -51,3 +51,10 @@ This is what I need for my project:
   * I think I will use the cable that came with the koobee k100, which fits this description.
 * Phone, for testing
   * I need to bring my koobee k100 phone to school to test this setup.
+
+## Kinetic Energy circuit
+
+I prototyped the hand crank.
+
+![hand crank](https://enderversing.github.io/itp-blog/assets/img/kinetic_1.gif)
+
