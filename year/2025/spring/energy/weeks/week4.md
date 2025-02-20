@@ -11,8 +11,8 @@ I received a large motor in the mail.
 
 This is a gif in which I use the motor to light up the LED on a Feather M0 with LoRa. 
 
-OCV: 4-7V
-Current: .7-1 a
+Open Circuit Voltage: 4-7 V
+Current: .7-1 A
 
 The gear produces so much torque that I have to crank it with pliers.
 
