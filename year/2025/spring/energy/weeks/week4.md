@@ -42,5 +42,5 @@ I measured the open circuit voltage as 3.28 V.
 ![cranking, multimeter, dimly lit hallway](https://enderversing.github.io/itp-blog/assets/img/energy/week4/4.gif)
 
 The short circuit current seems to range from ~.6-.9 A.
-![cranking, multimeter, dimly lit hallway](https://enderversing.github.io/itp-blog/assets/img/energy/week4/4.gif)
+![cranking, multimeter, dimly lit hallway](https://enderversing.github.io/itp-blog/assets/img/energy/week4/5.gif)
 
