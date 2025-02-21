@@ -32,7 +32,7 @@ When I plug in the Feather M0 to my computer, it blinks and fades quickly. At fi
 
 ![Feather M0 blink then fade](https://enderversing.github.io/itp-blog/assets/img/energy/week4/1.gif)
 
-I have to double click the reset button twice to turn on the board while it is plugged into my laptop. 
+I have to click the reset button twice to turn on the board while it is plugged into my laptop. 
 ![Feather M0 blinking](https://enderversing.github.io/itp-blog/assets/img/energy/week4/2.gif)
 
 I decided to try the Arduino Nano 33 IoT instead. Predictably, the board powered on without issue.
