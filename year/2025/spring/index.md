@@ -1,5 +1,5 @@
 # It's spring!
-```date: 1.23.24```
+```date: 1.23.25```
 
 ## Class documentation
 * [Energy](energy/index)
