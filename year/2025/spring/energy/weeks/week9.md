@@ -46,22 +46,19 @@ Enclosure should be wearable to make it harder to lose or steal.
 
 Functionality should focus on voice calls instead of texting.
 
-![cell phone keychain](https://enderversing.github.io/itp-blog/assets/img/energy/week9/IMG_2957.JPG)
 
-![cell phone keychain](https://enderversing.github.io/itp-blog/assets/img/energy/week9/IMG_2959.JPG)
-
-
-![cell phone necklace](https://enderversing.github.io/itp-blog/assets/img/energy/week9/IMG_2960.JPG)
-
-![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/inspo.jpg)
-
-![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/future.jpg)
+### Prototype v2.1
 
 The original plan:
 ![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/v1.png)
 
+### Prototype v2.2
+
 The second plan, realizing PCB design is hard:
 ![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/v2.png)
+
+### Prototype v2.3
+
 
 The third plan - buy existing development boards with LoRa + Bluetooth capabilities that would connect to existing headphones to enable making phone calls over radio.
 
@@ -82,4 +79,17 @@ Current prototype - in progress:
       * hair clip
       * headphones
 * power supply for Heltec WiFi LoRa 32 development board (x2)
-  * hoping it is possible to siphon the charge of the Bluetooth headphones
+  * ~~hoping it is possible to siphon the charge of the Bluetooth headphones (it isn't...)~~
+  * hoping that my desired supercapacitor + votlage regulator power supply setup is sufficient ~~(probably isn't)~~
+
+
+![cell phone keychain](https://enderversing.github.io/itp-blog/assets/img/energy/week9/IMG_2957.JPG)
+
+![cell phone keychain](https://enderversing.github.io/itp-blog/assets/img/energy/week9/IMG_2959.JPG)
+
+
+![cell phone necklace](https://enderversing.github.io/itp-blog/assets/img/energy/week9/IMG_2960.JPG)
+
+![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/inspo.jpg)
+
+![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/future.jpg)
