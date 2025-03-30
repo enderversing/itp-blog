@@ -81,6 +81,7 @@ Current prototype - in progress:
 * power supply for Heltec WiFi LoRa 32 development board (x2)
   * ~~hoping it is possible to siphon the charge of the Bluetooth headphones (it isn't...)~~
   * hoping that my desired supercapacitor + votlage regulator power supply setup is sufficient ~~(probably isn't)~~
+    * will try using AAA batteries with VIN (bypass LiPo charger)
 
 
 ![cell phone keychain](https://enderversing.github.io/itp-blog/assets/img/energy/week9/IMG_2957.JPG)
@@ -93,3 +94,9 @@ Current prototype - in progress:
 ![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/inspo.jpg)
 
 ![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/future.jpg)
+
+### Prototype v2.3 Power
+
+![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/copilot_power_advice.png)
+
+![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/connect_alkaline.png)
