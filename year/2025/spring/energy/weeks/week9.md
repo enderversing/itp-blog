@@ -52,7 +52,7 @@ Talking to resident Jess, I was informed that a project using only solar power (
 
 Allison Parrish used this board in one of her own projects.
 
-![AEMSUCA board checkout](https://enderversing.github.io/itp-blog/assets/img/energy/week9/parrisn.png)
+![AEMSUCA in blog post](https://enderversing.github.io/itp-blog/assets/img/energy/week9/parrish.png)
 
 
 ## Harriet Prototype v1
