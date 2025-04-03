@@ -50,7 +50,7 @@ Talking to resident Jess, I was informed that a project using only solar power (
 
 ![AEMSUCA board checkout](https://enderversing.github.io/itp-blog/assets/img/energy/week9/aemsuca.png)
 
-Allison Parrish used this board in one of her own projects.
+Allison Parrish used this board in [one of her own projects](https://posts.decontextualize.com/solar-powered-dawn-poems-progress-report/).
 
 ![AEMSUCA in blog post](https://enderversing.github.io/itp-blog/assets/img/energy/week9/parrish.png)
 
