@@ -12,7 +12,7 @@ Meshtastic web client didn't show me that the board was misconfigured.
 I always begin by setting the LoRa region for sending messages (in Meshtastic, I think you have to do this.)
 ![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/24011.png)
 
-I think I'll keep my solar powered repeater in client mode because the repeater is not in an "extremely stratefic" location.
+I think I'll keep my solar powered repeater in client mode because the repeater is not in an "extremely strategic" location.
 ![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/24129.png)
 
 Repeater and router modes require high power consumption.
@@ -45,6 +45,8 @@ Left: assorted parts.
 Right: Assorted parts soldered together.
 
 ![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/IMG_2966.jpeg)
+
+I will probably use the pre-assembled [XIAO ESP32S3 & Wio-SX1262 Kit](https://www.seeedstudio.com/XIAO-ESP32S3-for-Meshtastic-LoRa-with-3D-Printed-Enclosure-p-6314.html) in the end.
 
 
 ### Solar Project Parts 
