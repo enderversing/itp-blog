@@ -46,6 +46,9 @@ Right: Assorted parts soldered together.
 
 ![](https://enderversing.github.io/itp-blog/assets/img/energy/week9/IMG_2966.jpeg)
 
+
+### Solar Project Parts 
+
 Talking to resident Jess, I was informed that a project using only solar power (no batteries) to run could use the AEMSUCA board.
 
 ![AEMSUCA board checkout](https://enderversing.github.io/itp-blog/assets/img/energy/week9/aemsuca.png)
@@ -54,6 +57,15 @@ Allison Parrish used this board in [one of her own projects](https://posts.decon
 
 ![AEMSUCA in blog post](https://enderversing.github.io/itp-blog/assets/img/energy/week9/parrish.png)
 
+My office hours with Jess were quite fruitful. I was asking Jess - how do I connect all these components?
+
+![solar components](https://enderversing.github.io/itp-blog/assets/img/energy/week9/components.jpg)
+
+I think I need a [linear voltage regulator](https://www.seeedstudio.com/blog/2019/10/30/lm7805-voltage-regulator-features-comparisons-lm317-and-more/#:~:text=The%20LM7805%20is%20a%20voltage,supplies%20the%20positive%205%20volts) / [buck converter](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4739/13175530) (to use with [my solar panel](https://voltaicsystems.com/10-watt-panel-etfe/)).
+
+Even more important than just voltage regulation is actually connecting everything - so I need [this connector](https://www.digikey.com/en/products/detail/adafruit-industries-llc/369/5629435) and a USB C to DC adapter cable.
+
+I think [these](https://www.digikey.com/en/products/detail/adafruit-industries-llc/369/5629435) are in the ITP shop already.
 
 ## Harriet Prototype v1
 
