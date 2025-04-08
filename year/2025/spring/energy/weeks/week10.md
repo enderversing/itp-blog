@@ -6,7 +6,7 @@ Resident Kay told us to design our enclosure around alkaline batteries. Professo
 
 ## Cobalt-Free Power (Maybe)
 
-Jasper Sikken reached out to me through multiple channels, offering support on this project after I ordered his AEMSUCA board. 
+Jasper reached out to me through multiple channels, offering support on this project after I ordered his AEMSUCA board. 
 
 ![AEMSUCA board checkout](https://enderversing.github.io/itp-blog/assets/img/energy/week9/aemsuca.png)
 
