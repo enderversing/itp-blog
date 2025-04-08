@@ -17,7 +17,7 @@ Jasper also advised me to switch from the [AEMSUCA](https://www.tindie.com/produ
 ## How does voice over LoRa work?
 
 We would reference one of these codebases:
-* [Lora Codec2](https://github.com/dudmuck/lora_codec2)
+* [LoRa Codec2](https://github.com/dudmuck/lora_codec2)
 * [MeshChat](com/liamcottle/reticulum-meshchat)
 
 Voice calls over LoRa are, indeed, theoretically possible.
