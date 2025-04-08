@@ -24,6 +24,8 @@ We would reference one of these codebases:
 
 Voice calls over LoRa are, indeed, theoretically possible.
 
+"LoRa technology offers a maximum bitrate of about 10 kilobits per second." [(source)](https://www.digikey.com/en/articles/speed-development-of-long-range-connectivity-with-a-certified-lorawan-module)
+
 ## Hardware Setback
 
 I've always found it difficult to source/purchase Meshtastic boards in a timely and efficient manner. I ordered two Heltec LoRa 32 boards that never arrived and am considering abandoning Meshtastic. 
