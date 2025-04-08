@@ -10,7 +10,9 @@ Jasper Sikken reached out to me through multiple channels, offering support on t
 
 ![AEMSUCA board checkout](https://enderversing.github.io/itp-blog/assets/img/energy/week9/aemsuca.png)
 
-Jasper offered Li-ion capacitors as an alternative to Li-ion batteries without the explosions/fires and cobalt material sourcing.
+Jasper offered Li-ion capacitors as an alternative to Li-ion batteries without the explosions/fires and cobalt material sourcing. 
+
+Jasper also advised me to switch from the [AEMSUCA](https://www.tindie.com/products/jaspersikken/solar-harvesting-into-supercapacitors/) to the [AEMLIC](https://www.tindie.com/products/jaspersikken/solar-harvesting-into-lithium-ion-capacitor/) board.
 
 ## How does voice over LoRa work?
 
