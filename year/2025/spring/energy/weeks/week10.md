@@ -20,7 +20,7 @@ We would reference one of these codebases:
 * [LoRa Codec2](https://github.com/dudmuck/lora_codec2)
 * [MeshChat](com/liamcottle/reticulum-meshchat)
 * [Lyra](https://github.com/google/lyra)
-  * requires single-board computer or external computer
+  * requires single-board computer, or a powerful external computer attached to a microcontroller
 
 Voice calls over LoRa are, indeed, theoretically possible.
 
