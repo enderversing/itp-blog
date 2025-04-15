@@ -27,3 +27,8 @@ Voice can be something to work on in the future!
 This is what the add-on looks like so far.
 
 ![Tinkercad screenshot](https://enderversing.github.io/itp-blog/assets/img/energy/week11/addon.png)
+
+## Notes
+
+* The  [Heltec WiFi LoRa 32](https://heltec.org/project/wifi-lora-32-v3/) boards (x2) appear to have been stolen and/or lost in transit.
+* The [AEMLIC](https://www.tindie.com/products/jaspersikken/solar-harvesting-into-lithium-ion-capacitor/) boards (x2) have not arrived.
