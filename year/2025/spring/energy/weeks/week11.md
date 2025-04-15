@@ -20,7 +20,7 @@ I'm not sure whether I connected the wires to the breadboard incorrectly, but I 
 
 This is what the second prototype looked like before I abandoned it.
 
-I decided that, instead of starting over, I want to modify the first prototype to be wearable (as an add on, not a custom case instead of designing something from scratch.
+I decided that, instead of starting over, I want to modify the first prototype to be wearable (as an add on, not a custom case) instead of designing something from scratch.
 
 Voice can be something to work on in the future!
 
