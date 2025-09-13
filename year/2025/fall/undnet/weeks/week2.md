@@ -36,7 +36,7 @@ Why do switching systems need to try a subset of potential paths that can be dra
 
 I think this piece is shortsighted, but probably written with the best foresight the author could imagine in their time. Right now, we see "system destruction" from time to time in the form of outages. I can only imagine these outages become more and more bombastic if or when quantum computers become less noisy***.
 
-I have been reading a book with a great title - *Why Hackers Win* - which discusses how the Internet is actually becoming more centralized, and therefore, less stable, as time progresses.****
+I have been reading a book with a great title - *Why Hackers Win* - which discusses how the Internet is actually becoming more centralized, and therefore, less stable, as time progresses.~*
 
 
 #### Footnotes
@@ -47,7 +47,7 @@ I have been reading a book with a great title - *Why Hackers Win* - which discus
 
 ***Quantum computers could be the end of the Internet, or merely the next coming of dishonest tech startups - I'm not sure yet.
 
-****Tom, if you are reading this - I assume you know that an Arduino was used to hack, or expose, a serious vulnerability in the  wireless auto-ignition and keyless entry systems used by almost every Volkswagen car since 1995 (via the hacking book, published a while ago). How do you feel about that? Thoughts?
+~*Tom, if you are reading this - I assume you know that an Arduino was used to hack, or expose, a serious vulnerability in the  wireless auto-ignition and keyless entry systems used by almost every Volkswagen car since 1995 (via the hacking book, published a while ago). How do you feel about that? Thoughts?
 
 ### Stupid Networks
 
