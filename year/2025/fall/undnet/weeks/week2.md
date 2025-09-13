@@ -29,7 +29,7 @@ I'm really excited to have this reference because, even more than the content in
 Why do switching systems need to try a subset of potential paths that can be drawn on a gridded network? I may be misunderstanding the problem here, but couldn't these paths be predicted? If there is a need to try paths instead of using an algorithm to predict them, I would suspect that switching is actually a computationally difficult problem?
 
 
--   We will soon be living in an era in which we cannot guarantee survivability of any single point. However, we can still design systems in which system destruction requires the enemy to pay the price of destroying n of n stations. If n is made sufficiently large, it can be shown that highly survivable system structures can be built—even in the thermonuclear era.
+> We will soon be living in an era in which we cannot guarantee survivability of any single point. However, we can still design systems in which system destruction requires the enemy to pay the price of destroying n of n stations. If n is made sufficiently large, it can be shown that highly survivable system structures can be built—even in the thermonuclear era.
     
 
 
