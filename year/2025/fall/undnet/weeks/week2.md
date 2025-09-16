@@ -2,12 +2,6 @@
 
 ## Traceroute Exercise
 
-I spend so much time inside the world of apps. Traceroute feels somewhat outdated. The web browser, as a concept, can feel outdated. I don't use Arc but I understand the urge to turn the web browser into yet another shiny new app. The Internet is just the gateway used to access or learn about various apps - an exaggeration, for sure, but even Google pushes its app more than its website (as far as I can tell).
-
-I'm trying to understand what it means to open the TikTok app, for example. Does TikTok actually have a part of its website that is only accessible to me when I access TikTok from the mobile app? I doubt it. Is the TikTok mobile (cell, tablet) app part of the Internet? I don't think it is, but then why do I need WiFi to use the TikTok mobile app? The desktop app for TikTok (accessible via browser) has a host name and IP address, but what about the mobile app? 
-
-I'm very excited for whatever comes after TikTok. Now - traceroute.
-
 **are.na**
 ![are.na map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/arena_map.png)
 ![are.na terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/arena.png)
@@ -49,13 +43,10 @@ These are the autonomous systems I ran into during this exercise most frequently
     * DigiCert.
 * AS3356
     * Lumen
-    * Eerie mentions of subpoenas and court orders...for Internet traffic?
 * AS12
     * This is New York University.
-    * Hasn't been responding to ARIN's requests for contact.
 * AS13335
-    * I see Cloudflare as an Internet landlord.
-
+    * Cloudflare.
 ## Readings
 
 ### On Distributed Communications
@@ -87,10 +78,9 @@ Why do switching systems need to try a subset of potential paths that can be dra
     
 
 
-
 I think this piece is shortsighted, but probably written with the best foresight the author could imagine in their time. Right now, we see "system destruction" from time to time in the form of outages. I can only imagine these outages become more and more bombastic if or when quantum computers become less noisy***.
 
-I have been reading a book with a great title - *Why Hackers Win* - which discusses how the Internet is actually becoming more centralized, and therefore, less stable, as time progresses.~*
+I have been reading a book with a great title - *Why Hackers Win* - which discusses how the Internet is actually becoming more centralized, and therefore, less stable, as time progresses.
 
 
 #### Footnotes
@@ -101,57 +91,7 @@ I have been reading a book with a great title - *Why Hackers Win* - which discus
 
 ***Quantum computers could be the end of the Internet, or merely the next coming of dishonest tech startups - I'm not sure yet.
 
-~*Tom, if you are reading this - I assume you know that an Arduino was used to hack, or expose, a serious vulnerability in the  wireless auto-ignition and keyless entry systems used by almost every Volkswagen car since 1995 (via the hacking book, published a while ago). How do you feel about that? Thoughts?
 
 ### Stupid Networks
 
 Honestly, I don't understand this piece. What is the stupid protocol? Is it...the Internet? How is the Internet stupid?
-
-## Testing DJ's Droplet
-
-I was struggling to get myself to start my homework for this week. I had to create a new droplet because my old droplet was deleted (probably compromised because of my poorly configured firewall). 
-
-I wonder if I can penetration test DJ's droplet while I wait for my own droplet traffic to materialize. I was thinking I might remember the password he shared in class from memory, but I checked his Notion and a password is still there, in plaintext.
-
-Do not worry about my intentions - I am an ethical white hat penetration testing knight in shining armor. I'm simply educating the people. 
-
----
-
-``` 
-ssh root@104.248.225.197
-kex_exchange_identification: read: Connection reset by peer
-Connection reset by 104.248.225.197 port 22
-```
-
-Well, that's interesting. I'll log in as a different user on his droplet.
-
-```
-ssh sudosudofreak@104.248.225.197
-kex_exchange_identification: read: Connection reset by peer
-Connection reset by 104.248.225.197 port 22
-```
-
-Is this droplet alive? 
-```
-ping 104.248.225.197
-PING 104.248.225.197 (104.248.225.197): 56 data bytes
-Request timeout for icmp_seq 0
-Request timeout for icmp_seq 1
-Request timeout for icmp_seq 2
-Request timeout for icmp_seq 3
-Request timeout for icmp_seq 4
-Request timeout for icmp_seq 5
-Request timeout for icmp_seq 6
-Request timeout for icmp_seq 7
-Request timeout for icmp_seq 8
-Request timeout for icmp_seq 9
-Request timeout for icmp_seq 10
-^C
---- 104.248.225.197 ping statistics ---
-12 packets transmitted, 0 packets received, 100.0% packet loss
-```
-100% packet loss suggests that his droplet is down. I think we both struggled setting up our firewalls.
-
-## Droplet firewall
-
-I need to schedule office hours. I can't log into my (new) droplet. This change happened right after I entered `ufw enable` and closed the DigitalOcean console.
