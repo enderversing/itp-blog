@@ -20,10 +20,6 @@ I turned on the droplet again, and configured both ufw and iptables.
 
 I can tell from the NYU ITP Networks site documentation that we are not expected to use both ufw and iptables at the same time. I hope I didn't break anything.
 
-For some reason, I am forced to look at this page whenever I attempt to log into an NYU WordPress site. I don't know if this is an error page or something more insignificant. I have been directed to this page in other classes, not just Understanding Networks.
-
-![glitch](https://enderversing.github.io/itp-blog/assets/img/undnet/week1/glitch.png)
-
 I tried to log into my droplet after a few days to check my firewall logs. I could not log in from the OS terminal or the console on the Digital Ocean website. I tried a few times throughout the day. 
 
 ![glitch](https://enderversing.github.io/itp-blog/assets/img/undnet/week1/ssh.png)
