@@ -1,6 +1,60 @@
 # Week 2
 
+## Traceroute Exercise
 
+I spend so much time inside the world of apps. Traceroute feels somewhat outdated. The web browser, as a concept, can feel outdated. I don't use Arc but I understand the urge to turn the web browser into yet another shiny new app. The Internet is just the gateway used to access or learn about various apps - an exaggeration, for sure, but even Google pushes its app more than its website (as far as I can tell).
+
+I'm trying to understand what it means to open the TikTok app, for example. Does TikTok actually have a part of its website that is only accessible to me when I access TikTok from the mobile app? I doubt it. Is the TikTok mobile (cell, tablet) app part of the Internet? I don't think it is, but then why do I need WiFi to use the TikTok mobile app? The desktop app for TikTok (accessible via browser) has a host name and IP address, but what about the mobile app? 
+
+I'm very excited for whatever comes after TikTok. Now - traceroute.
+
+**are.na**
+![are.na map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/arena_map.png)
+![are.na terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/arena.png)
+
+**arena.computer**
+![arena.computer map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/arenacomputer_map.png)
+![arena.computer terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/arena_computer.png)
+**dodoskin.com**
+![dodoskin map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/dodoskin_map.png)
+![dodoskin terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/dodoskin.png)
+**douyin.com**
+![douyin map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/douyin_map.png)
+**google.com**
+![google map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/google_map.png)
+![google terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/google.png)
+**proton.me**
+![proton map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/proton_map.png)
+![proton terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/protonmail.png)
+**stylevana.com**
+![stylevana map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/stylevana_map.png)
+![stylevana terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/stylevana.png)
+**the-qi.com**
+![qi map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/the_qi_map.png)
+![qi terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/the_qi.png)
+**tiktok.com**
+![tiktok map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/tiktok_map.png)
+![tiktok terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/tiktok.png)
+**yesstyle.com**
+![yesstyle map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/yesstyle_map.png)
+![yesstyle terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/yesstyle.png)
+**youtube.com**
+![youtube map](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/maps/youtube_map.png)
+![youtube terminal](https://enderversing.github.io/itp-blog/assets/img/undnet/week2/terminal/youtube.png)
+
+These are the autonomous systems I ran into during this exercise most frequently. 
+* AS0
+    * I think this is NYU.
+*  AS19905
+    * DigiCert.
+* AS3356
+    * Lumen
+    * Eerie mentions of subpoenas and court orders...for Internet traffic?
+* AS12
+    * This is New York University.
+    * Hasn't been responding to ARIN's requests for contact.
+* AS13335
+    * I see Cloudflare as an Internet landlord.
 
 ## Readings
 
@@ -98,3 +152,6 @@ Request timeout for icmp_seq 10
 ```
 100% packet loss suggests that his droplet is down. I think we both struggled setting up our firewalls.
 
+## Droplet firewall
+
+I need to schedule office hours. I can't log into my (new) droplet. This change happened right after I entered `ufw enable` and closed the DigitalOcean console.
