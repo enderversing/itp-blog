@@ -26,3 +26,4 @@ The  http://symbolics.com/ website is designed in a way that is amusing.
 This article has a strong point of view. I wonder why the author's name is not shared or visible.
 
 Tim Wu is a great author (my point of view - author, Ender).
+
