@@ -15,6 +15,10 @@ How are books bound? Could I automate the binding of books/zines with [atypical]
 
 I am interested in fabricating a machine that automates zine-making, *maybe*. I am *not* interested in fabricating one-off objects - I am interested in fabricating machines that make things.
 
+I feel like this...is interesting. Not sure if it is practical, but it is interesting.
+
+I also think it would be fun to emboss all the letters in the book and/or emboss Braille on the back of every page, for accessibility. If the goal of the fabricated machine was to create books/zines that maximize both interactivity and accessibility, that would be nice to work on.
+
 ## Wild Card 1
 Could I run a laptop on alkaline batteries? I took a long time buying a [new laptop](https://frame.work) because I [don't](https://www.are.na/block/30319808) like [lithium-ion batteries](https://www.npr.org/sections/goatsandsoda/2023/02/01/1152893248/red-cobalt-congo-drc-mining-siddharth-kara) and try to avoid them at all costs. 
 
