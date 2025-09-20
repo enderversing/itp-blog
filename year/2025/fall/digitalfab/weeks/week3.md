@@ -27,13 +27,13 @@ Speaking of alkaline batteries in electronics, I like these headphones.
 
 ![vintage headphones with transparent case for batteries](https://enderversing.github.io/itp-blog/assets/img/digitalfab/week3/alkaline_headphone.jpg)
 
- My old headphones recently broke. I buy at least four pairs of headphones a year - wasteful! Could I design my own pair of (active) sound-canceling headphones designed to be repaired? 
+ My old headphones recently broke. I buy at least four pairs of headphones a year - wasteful! Could I design my own pair of ([active](https://en.wikipedia.org/wiki/Active_noise_control)) sound-cancelling headphones designed to be repaired? 
 
  I am also interested in unique over ear headphone designs. 
  ![over ear headphone cover from shein like website](https://enderversing.github.io/itp-blog/assets/img/digitalfab/week3/headphone_cover.jpg)
 ![soft off-white pearlescent over ear headphone cover](https://enderversing.github.io/itp-blog/assets/img/digitalfab/week3/soft_headphone.jpg)
  
- Could I fabricate repairable sound-canceling headphones that have a replaceable over-ear section, so that designs can be swapped out at will?
+ Could I fabricate repairable sound-cancelling headphones that have a replaceable over-ear section, so that designs can be swapped out at will?
 
 ## Wild Card 2
 
