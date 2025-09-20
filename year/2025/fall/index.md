@@ -3,3 +3,4 @@
 
 ## Class documentation
 * [Understanding Networks](undnet/index.md)
+* [Designing for Digital Fabrication](digitalfab/index.md)
