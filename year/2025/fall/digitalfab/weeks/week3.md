@@ -7,19 +7,15 @@
 
 I could just fabricate some keychains. Maybe I should aim low.
 
-## Book Binding
+## Printers
 
 ![curvy book pages](https://enderversing.github.io/itp-blog/assets/img/digitalfab/week3/curvy_book.jpg)
 
-How are books bound? Could I automate the binding of books/zines with [atypical](https://www.are.na/block/38616693) pages, or automate creating books/zines with [pop-out sections](https://www.are.na/block/12464774)?
+<!-- How are books bound? Could I automate the binding of books/zines with [atypical](https://www.are.na/block/38616693) pages, or automate creating books/zines with [pop-out sections](https://www.are.na/block/12464774)? -->
 
-I am interested in fabricating a machine that automates zine-making, *maybe*. I am *not* interested in fabricating one-off objects - I am interested in fabricating machines that make things.
+I *think* my thesis will be related to ([lo-fi](https://www.worldscientific.com/doi/abs/10.1142/S0129626407003071)) [DNA computing](https://ebooks.iospress.nl/publication/6470) using [xerography (printers)](https://link.springer.com/content/pdf/10.1007/978-3-540-88869-7_31). I'm still in the research phase, but I might want to relate my project for this class to my thesis somehow.
 
-I feel like this...is interesting. Not sure if it is practical, but it is interesting.
-
-I also think it would be fun to emboss all the letters in the book and/or emboss Braille on the back of every page, for accessibility. If the goal of the fabricated machine was to create books/zines that maximize both interactivity and accessibility, that would be nice to work on.
-
-## Wild Card 1
+## Wild Card 
 Could I run a laptop on alkaline batteries? I took a long time buying a [new laptop](https://frame.work) because I [don't](https://www.are.na/block/30319808) like [lithium-ion batteries](https://www.npr.org/sections/goatsandsoda/2023/02/01/1152893248/red-cobalt-congo-drc-mining-siddharth-kara) and try to avoid them at all costs. 
 
 ## Headphones
@@ -34,14 +30,6 @@ Speaking of alkaline batteries in electronics, I like these headphones.
 ![soft off-white pearlescent over ear headphone cover](https://enderversing.github.io/itp-blog/assets/img/digitalfab/week3/soft_headphone.jpg)
  
  Could I fabricate repairable sound-cancelling headphones that have a replaceable over-ear section, so that designs can be swapped out at will?
-
-## Wild Card 2
-
-This idea makes me think of too many offshoots, so the scope is probably not appropriate for this course. I have been thinking about this Coperni purse for a long time, and also about the rise of streaming services/copyright law in music. 
-
-![Coperni MP3 player purse](https://enderversing.github.io/itp-blog/assets/img/digitalfab/week3/mp3_purse_coperni.jpg)
-
-I miss MP3 downloads and MP3 players. (I already own an ancient/vintage iPod.) This wearable MP3 player project would be a large project, though, and I know too little about music to be the person who follows through on this idea.
 
 ## Pianos
 
