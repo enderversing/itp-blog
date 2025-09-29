@@ -1,10 +1,15 @@
 # Week 4
+These are the results of my analysis:
 
+![final analysis results](https://enderversing.github.io/itp-blog/assets/img/undnet/week4/results.png)
 
+First, I had to locate the `ufw.log`.
+![ufw file location search screenshot](https://enderversing.github.io/itp-blog/assets/img/undnet/week4/location.png)
 
+Then, I had to copy the `ufw.log` from the remote server to my local computer over SSH.
+![scp search results](https://enderversing.github.io/itp-blog/assets/img/undnet/week4/scp.png)
 
-
-
+I converted the `ufw.log` to a `.csv`.
 ```bash
 downloads % sed 's/ /,/g' ufw.log › ufw.csv
 ```
