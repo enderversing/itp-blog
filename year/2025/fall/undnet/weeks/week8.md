@@ -11,3 +11,5 @@ I never learned much about PUT or DELETE requests. I also never knew that REST s
 ---
 
 I started working on my API using an LLM-assisted scraper: https://www.webhound.ai/dataset/a09554da-555b-4d2b-8bda-4c3935e7164a
+
+My website URL will either be harriet.science or starling.directory, depending on which domain registrar is easier to work with.
