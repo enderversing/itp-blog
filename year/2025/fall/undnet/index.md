@@ -8,4 +8,5 @@
 * [Week 4](weeks/week4.md)
 * [Week 7](weeks/week7.md)
 * [Week 8](weeks/week8.md)
+* [Week 9](weeks/week9.md)
 
