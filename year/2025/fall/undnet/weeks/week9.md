@@ -9,3 +9,4 @@
 ![](https://enderversing.github.io/itp-blog/assets/img/undnet/week9/7.png)
 
 Is it a good security practice to show that much info about my server? It's already committed to Git sadly...
+![](https://enderversing.github.io/itp-blog/assets/img/undnet/week9/8.png)
