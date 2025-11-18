@@ -102,7 +102,7 @@ Looks up a single problem by **exact title match** (case-insensitive). The entir
 
 ### 4) Create a problem
 
-`POST /`
+`POST /api`
 
 Body: JSON object.
 
@@ -138,7 +138,7 @@ Content-Type: application/json
 
 ### 5) Update a problem (merge)
 
-`PUT /:title`
+`PUT /api/:title`
 
 Merges the provided fields into the existing problem identified by the exact (case-insensitive) title. Fields not included remain unchanged.
 
@@ -167,7 +167,7 @@ Content-Type: application/json
 
 ### 6) Delete a problem
 
-`DELETE /:title`
+`DELETE /api/:title`
 
 Deletes the problem with a matching (case-insensitive) title.
 
