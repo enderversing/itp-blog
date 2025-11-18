@@ -203,10 +203,10 @@ curl -s https://starling.directory/api/
 # Filter by research area
 curl -s "https://starling.directory/api/filter?researchArea=physics"
 
-# Filter by minimum cash award (> 5000)
+# Filter by minimum cash award (> 200)
 curl -s "https://starling.directory/api/filter?cashAward=200"
 
-# Get one by title (URL-encode spaces/special chars)
+# Get one by title 
 curl -s "https://starling.directory/api/p%20vs%20np"
 
 # Create
@@ -219,12 +219,12 @@ curl -s -X POST https://starling.directory/api/ \
     "Cash_Award": "$3,000"
   }'
 
-# Update (partial merge)
+# Update 
 curl -s -X PUT "https://starling.directory/api/Self-Supervised%20Birdsong%20ID" \
   -H "Content-Type: application/json" \
   -d '{ "Cash_Award": "$4,000" }'
 
-# Delete
+# Delete entry
 curl -s -X DELETE "https://starling.directory/api/Self-Supervised%20Birdsong%20ID"
 ```
 ---
