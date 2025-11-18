@@ -14,10 +14,10 @@ This REST API exposes a simple JSON file–backed catalog of “problems.” You
 
 ```json
 {
-  "Problem_Title": "Robust Few-Shot OCR",
-  "Problem_Summary": "Build an OCR model that works with 10 labeled pages per language.",
-  "Research_Area": "Computer Vision, NLP",
-  "Cash_Award": "$7,500",
+  "Problem_Title": "Divergence implies arithmetic progressions.",
+  "Problem_Summary": "If the sum of the reciprocals of a set of positive integers is infinite, must the set contain arbitrarily long finite arithmetic progressions?",
+Cash_Award:	"$3000 USD (Fixed, Paul Erdős)",
+  "Research_Area": "Number Theory",
 }
 ```
 
@@ -27,7 +27,7 @@ This REST API exposes a simple JSON file–backed catalog of “problems.” You
 
 ### 1) List all problems
 
-`GET /`
+`GET /api`
 
 Returns the full array from `problems.json`.
 
@@ -35,7 +35,7 @@ Returns the full array from `problems.json`.
 
 ```json
 [
-  { "Problem_Title": "...", "Problem_Summary": "...", "Research_Area": "...", "Cash_Award": "$7,500" },
+  { "Problem_Title": "...", "Problem_Summary": "...",  "Cash_Award": "...", "Research_Area": "..." },
 ]
 ```
 
@@ -43,7 +43,7 @@ Returns the full array from `problems.json`.
 
 ### 2) Filter problems
 
-`GET /filter`
+`GET /api/filter`
 
 Query parameters (all optional):
 
@@ -54,50 +54,48 @@ Query parameters (all optional):
 
 Notes:
 
-* `researchArea` → `"nlp"` matches `"NLP, IR"` (case-insensitive substring).
+* `researchArea` → `"number theory"` matches `"Number Theory, Diophantine Equations"` (case-insensitive substring).
 * `cashAward` → both `"5000"` and `"$5,000"` are accepted. In data, `Cash_Award` is parsed similarly (e.g., `"$7,500"` → `7500`).
 
 **Example requests**
 
 ```
-GET /filter?researchArea=computer%20vision
-GET /filter?cashAward=5000
-GET /filter?researchArea=ai&cashAward=$2500
+GET /api/filter?researchArea=quantum
+GET /api/filter?cashAward=200
+GET /api/filter?researchArea=quantum&cashAward=200
 ```
 
 **Response 200**
 
 ```json
-[
-  { "Problem_Title": "Robust Few-Shot OCR", "Cash_Award": "$7,500", "Research_Area": "Computer Vision" }
-]
+[{
+"Problem_Title":"Yang-Mills & the Mass Gap",
+"Problem_Summary":"Experiment and computer simulations suggest the existence of a “mass gap” in the solution to the quantum versions of the Yang-Mills equations. But no proof of this property is known.",
+"Cash_Award":"$1,000,000 USD (Fixed, Clay Mathematics Institute)",
+"Research_Area":"Quantum Physics, Mathematical Physics"
+}]
 ```
 
 ---
 
 ### 3) Get a problem by title
 
-`GET /:title`
+`GET /api/:title`
 
 Looks up a single problem by **exact title match** (case-insensitive). The entire `:title` path segment is compared to the stored `Problem_Title`.
 
 > Tip: URL-encode titles that contain spaces or special characters.
-> Example: `GET /Robust%20Few-Shot%20OCR`
+> Example: `GET /api/p%20vs%20np`
 
 **Response 200**
 
 ```json
-{
-  "Problem_Title": "Robust Few-Shot OCR",
-  "Problem_Summary": "...",
-  "Cash_Award": "$7,500"
-}
-```
-
-**Response 404**
-
-```json
-{ "message": "Problem not found" }
+[{
+"Problem_Title":"P vs NP",
+"Problem_Summary":"If it is easy to check that a solution to a problem is correct, is it also easy to solve the problem? This is the essence of the P vs NP question.",
+"Cash_Award":"$1,000,000 USD (Fixed, Clay Mathematics Institute)",
+"Research_Area":"Computer Science, Computational Complexity Theory"
+}]
 ```
 
 ---
@@ -106,7 +104,7 @@ Looks up a single problem by **exact title match** (case-insensitive). The entir
 
 `POST /`
 
-Body: JSON object with at least `Problem_Title` and `Problem_Summary`. All additional fields are accepted and persisted.
+Body: JSON object.
 
 **Request**
 
@@ -134,11 +132,7 @@ Content-Type: application/json
     "Cash_Award": "$5,000"
   }
   ```
-* **400** (missing required fields)
 
-  ```json
-  { "message": "Title and Summary are required" }
-  ```
 
 ---
 
@@ -168,11 +162,6 @@ Content-Type: application/json
 }
 ```
 
-**Response 404**
-
-```json
-{ "message": "Problem not found" }
-```
 
 ---
 
