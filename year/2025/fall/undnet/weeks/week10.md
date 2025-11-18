@@ -16,7 +16,7 @@ This REST API exposes a simple JSON file–backed catalog of “problems.” You
 {
   "Problem_Title": "Divergence implies arithmetic progressions.",
   "Problem_Summary": "If the sum of the reciprocals of a set of positive integers is infinite, must the set contain arbitrarily long finite arithmetic progressions?",
-Cash_Award:	"$3000 USD (Fixed, Paul Erdős)",
+  "Cash_Award": "$3000 USD (Fixed, Paul Erdős)",
   "Research_Area": "Number Theory",
 }
 ```
