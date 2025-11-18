@@ -207,7 +207,7 @@ curl -s "https://starling.directory/api/filter?researchArea=physics"
 curl -s "https://starling.directory/api/filter?cashAward=200"
 
 # Get one by title (URL-encode spaces/special chars)
-curl -s "https://starling.directory/api/p%20vs%np"
+curl -s "https://starling.directory/api/p%20vs%20np"
 
 # Create
 curl -s -X POST https://starling.directory/api/ \
