@@ -201,13 +201,13 @@ Deletes the problem with a matching (case-insensitive) title.
 curl -s https://starling.directory/api/
 
 # Filter by research area
-curl -s "https://starling.directory/api/filter?researchArea=nlp"
+curl -s "https://starling.directory/api/filter?researchArea=physics"
 
 # Filter by minimum cash award (> 5000)
-curl -s "https://starling.directory/api/filter?cashAward=5000"
+curl -s "https://starling.directory/api/filter?cashAward=200"
 
 # Get one by title (URL-encode spaces/special chars)
-curl -s "https://starling.directory/api/Robust%20Few-Shot%20OCR"
+curl -s "https://starling.directory/api/p%20vs%np"
 
 # Create
 curl -s -X POST https://starling.directory/api/ \
